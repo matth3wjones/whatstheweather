@@ -47,6 +47,7 @@
 		CACBF3CB1F2BCE6000271097 /* whats the weatherUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "whats the weatherUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CACBF3CF1F2BCE6000271097 /* whats_the_weatherUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = whats_the_weatherUITests.swift; sourceTree = "<group>"; };
 		CACBF3D11F2BCE6000271097 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CACBF3DF1F2BE38200271097 /* water.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = water.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +78,7 @@
 		CACBF3A31F2BCE5F00271097 = {
 			isa = PBXGroup;
 			children = (
+				CACBF3DF1F2BE38200271097 /* water.jpg */,
 				CACBF3AE1F2BCE5F00271097 /* whats the weather */,
 				CACBF3C31F2BCE6000271097 /* whats the weatherTests */,
 				CACBF3CE1F2BCE6000271097 /* whats the weatherUITests */,
